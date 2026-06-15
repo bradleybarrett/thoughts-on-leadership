@@ -10,5 +10,6 @@
 ## Strive to build teams that scale. Develop people. Be an exponential force multiplier.
 - More on this coming soon :)
 
-## A lot of things in life are going to be binary search. Show yourself some grace. You won't always be perfect, but you can always be improving.**
+## A lot of things in life are going to be binary search. Show yourself some grace.
+- You won't always be perfect, but you can always be improving.
 - You typically learn the most from failure. Embrace the challenges as fortunate opportunities to grow.
