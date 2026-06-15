@@ -1,3 +1,6 @@
+**A lot of thing in life are going to be binary search. Show yourself some grace. You won't always be perfect, but you can always be improving.**
+- You typically learn the most from failure. Embrace the challenges as fortunate opportunities to grow.
+
 **Embrace good enough delegation at level**
 - embrace: lean into this, if you are too busy, then you’re probably not delegating enough (no one will ever be disappointed that you thought more of them, people are capable of more than you think)
 - good enough: not all asks will be perfectly defined or the right decision, trust your team to give feedback and adjust course
