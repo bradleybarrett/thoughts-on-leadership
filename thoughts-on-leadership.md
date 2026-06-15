@@ -1,11 +1,11 @@
 ## Embrace good enough delegation at level.
-- Embrace: Lean into delegation - truly embrace. If you are too busy, then you’re probably not delegating enough. No one will ever be disappointed that you thought more of them. People are usually capable of more than you think.
-- Good enough: Not all asks will be perfectly defined and not all decisions you make will be correct. Don't get paralyzed perfecting the ask. Trust your team to give feedback and adjust course.
-- At level: More experienced/capable team members need less prescritive guidance. They’ll know what questions to ask and will grasp the intended outcome even if the initial task is misaligned. Be clear with your asks and expectations, but remember their level.
+- **Embrace**: Lean into delegation - truly embrace. If you are too busy, then you’re probably not delegating enough. No one will ever be disappointed that you thought more of them. People are usually capable of more than you think.
+- **Good enough**: Not all asks will be perfectly defined and not all decisions you make will be correct. Don't get paralyzed perfecting the ask. Trust your team to give feedback and adjust course.
+- **At level**: More experienced/capable team members need less prescritive guidance. They’ll know what questions to ask and will grasp the intended outcome even if the initial task is misaligned. Be clear with your asks and expectations, but remember their level.
 
 ## When things get tricky, get in, then get out.
-- Get in: As a leader, your expertise is necessary to step in and get closer to the problems when very difficult challenges emerged. In these cases, you might need to work shoulder to shoulder with your teams to find the best way forward. Sometimes you need to roll your sleeves up, be the strategic expert, and lead by example.
-- Get out: However, once you’re corrected course, empower others to continue steering the ship. If you stay in the loop too long, you’ll burn yourself out without time for other duties and you limit the growth opportunity for your emerging leaders.
+- **Get in**: As a leader, your expertise is necessary to step in and get closer to the problems when very difficult challenges emerged. In these cases, you might need to work shoulder to shoulder with your teams to find the best way forward. Sometimes you need to roll your sleeves up, be the strategic expert, and lead by example.
+- **Get out**: However, once you’re corrected course, empower others to continue steering the ship. If you stay in the loop too long, you’ll burn yourself out without time for other duties and you limit the growth opportunity for your emerging leaders.
 
 ## Be an exponential force multiplier.
 - Strive to build teams that scale. Develop people.
