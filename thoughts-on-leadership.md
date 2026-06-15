@@ -1,7 +1,7 @@
 ## Embrace good enough delegation at level.
 - Embrace: lean into this, if you are too busy, then you’re probably not delegating enough (no one will ever be disappointed that you thought more of them, people are capable of more than you think)
 - Good enough: not all asks will be perfectly defined or the right decision, trust your team to give feedback and adjust course
-- At level: more experienced/capable team members need less perceptive guidance, they’ll know what questions to ask and grasp the intended outcome even if the initial task is misaligned
+- At level: more experienced/capable team members need less perceptive guidance, they’ll know what questions to ask and will grasp the intended outcome even if the initial task is misaligned
 
 ## When things get tricky, get in, then get out.
 - Get in: As a leader, your expertise is necessary to step in and get closer to the problems when very difficult challenges emerged. In these cases, you might need to work shoulder to shoulder with your teams to find the best way forward. Sometimes you need to roll your sleeves up, be the strategic expert, and lead by example.
