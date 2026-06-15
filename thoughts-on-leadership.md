@@ -7,7 +7,8 @@
 - Get in: As a leader, your expertise is necessary to step in and get closer to the problems when very difficult challenges emerged. In these cases, you might need to work shoulder to shoulder with your teams to find the best way forward. Sometimes you need to roll your sleeves up, be the strategic expert, and lead by example.
 - Get out: However, once you’re corrected course, empower others to continue steering the ship. If you stay in the loop too long, you’ll burn yourself out without time for other duties and you limit the growth opportunity for your emerging leaders.
 
-## Strive to build teams that scale. Develop people. Be an exponential force multiplier.
+## Be an exponential force multiplier.
+- Strive to build teams that scale. Develop people.
 - More on this coming soon :)
 
 ## A lot of things in life are going to be binary search. Show yourself some grace.
