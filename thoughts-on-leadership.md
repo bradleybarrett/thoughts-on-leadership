@@ -1,6 +1,6 @@
 ## Embrace good enough delegation at level.
-- Embrace: lean into this, if you are too busy, then you’re probably not delegating enough (no one will ever be disappointed that you thought more of them, people are capable of more than you think)
-- Good enough: not all asks will be perfectly defined or the right decision, trust your team to give feedback and adjust course
+- Embrace: Lean into delegation - truly embrace. If you are too busy, then you’re probably not delegating enough. No one will ever be disappointed that you thought more of them. People are usually capable of more than you think.
+- Good enough: Not all asks will be perfectly defined and not all decisions you make will be correct. Don't get paralyzed perfecting the ask. Trust your team to give feedback and adjust course.
 - At level: more experienced/capable team members need less perceptive guidance, they’ll know what questions to ask and will grasp the intended outcome even if the initial task is misaligned
 
 ## When things get tricky, get in, then get out.
